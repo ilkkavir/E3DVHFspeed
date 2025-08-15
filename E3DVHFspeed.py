@@ -55,10 +55,10 @@ TXloc = ('TRO',gdlat_t,gdlon_t)
 RXloc = [('TRO',gdlat_r1,gdlon_r1),('KAI',gdlat_r2,gdlon_r2),('KRS',gdlat_r3,gdlon_r3)]
 
 # radar carrier frequency
-radarFreq  = 233e6
+radarFreq  = 224e6
 
 # transmitter duty cycle
-dutyCycle = 0.25
+dutyCycle = 0.125
 
 # "reception" duty cycle
 rxduty = [1.,1.,1.]
